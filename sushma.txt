@@ -6,3 +6,4 @@ sushma where are you
 ajay is my brother
 i am good girl
 merging
+doing merge command
